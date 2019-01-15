@@ -28,3 +28,8 @@ For more information on any of the following materials, pleas see the following 
 
 **rvest vignette**: <https://stat4701.github.io/edav/2015/04/02/rvest_tutorial/>
 
+**JavaScript tutorial**: <https://www.w3schools.com/js/>
+
+**jQuery tutorial**: <https://www.w3schools.com/jquery/>
+
+**Selenium**, and specifically **RSelenium**, will be covered in Part II of this book. No tutorial will be provided at this time - this book will serve as the tutorial for **RSelenium**.
